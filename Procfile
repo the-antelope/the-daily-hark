@@ -1,1 +1,1 @@
-web: gunicorn the-daily-hark.wsgi
+web: gunicorn theDailyHark.wsgi
